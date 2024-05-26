@@ -1,0 +1,9 @@
+.pizza-button {
+    width: 150px;
+    height: 150px;
+    background-image: url('pizza.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+}
